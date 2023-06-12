@@ -4,5 +4,8 @@ background-color: linen;
 color: darkmagenta;
 }
 
-p {color: grey;
+p {color: darkviolet;
+}
+li{
+    color: green;
 }
